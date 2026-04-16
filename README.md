@@ -6,7 +6,7 @@ Yakında tamamen okunabilir bir şekilde burada var olacak... c:
 ## İstatistikler
 
 ### En Büyük Kabadayılar (Güç Puanı'na Göre)
-| Kullanıcı | Konu Sayısı |
+| Kullanıcı | Güç Puanı |
 |---|---|
 | Seth Carter | 219 |
 | Victorine Odette Boleyn | 170 |
@@ -79,7 +79,7 @@ Yakında tamamen okunabilir bir şekilde burada var olacak... c:
 | 1865-66 Eğitim Yılı \| Güz Dönemi Biçim Değiştirme Dersi | 439 |
 
 ## Şöhretler Salonu - Ödül Kazanan Karakterler
-| Karakter | Ödül |
+| Karakter | Ödül Sayısı |
 |---|---|
 | Alpharian/Omegan Av Thrawsunblat | 12 |
 | Cwénhild Muirghéal | 8 |
