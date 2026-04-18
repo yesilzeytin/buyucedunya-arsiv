@@ -40,7 +40,6 @@ Aşağıda da bu "tarihi artefaktın restorasyonu" aşamasında topladığım ba
 | Eurus Medea Soleil | 96 |
 | Henrietta Doe | 92 |
 | Mirina Blackbird | 87 |
-| Eurus Medea Soleil | 96 |
 
 ### En Kalantorlar
 | Kullanıcı | Galleon |
