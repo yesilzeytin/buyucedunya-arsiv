@@ -1,7 +1,25 @@
 # buyucedunya-arsiv
 Büyücedünya RPG. Ama duman altı.
 
-Yakında tamamen okunabilir bir şekilde burada var olacak... c:
+Birkaç yıl gecikmiş olsa da malum yapay zeka devri, "ya acaba bu siteyi internette kalıcı olarak yaşatmanın bir yolu var mıdır?" sorusunu sormak yeni aklıma geldi ve bir günde iş çözüldü. Devir güzel devir.
+
+Sitede peki neler var?
+- Neredeyse tüm yazılmış RP'ler,
+- Tüm karakter profilleri,
+- Hizip mensubu olmadıkça okunamayan Hizip Ofisleri ve sitenin ilk düello testlerinin yapıldığı Playtest Forumu,
+- Sitenin gezilebilen yerlerinin büyük bir kısmı.
+
+Sitenin orijinalinin geri kaldırılması aşamasında yaşanan birkaç aksilik oldu, bu doğrultuda:
+- Rehberler,
+- Diagon Yolu,
+- Sitenin kapanış duyurusundan sonra yazılmış RP'ler,
+- RP içlerinde doğrudan "buyucedunya-rpg.com" adresine verilen RP linkleri,
+- Arama fonksiyonalitesi
+kaybedilmiş oldu.
+
+Ancak herkes karakter profilleri veyahut mekan forumları üzerinden rahatlıkla eski RP'lerine ulaşabilir.
+
+Aşağıda da bu "tarihi artefaktın restorasyonu" aşamasında topladığım bazı istatistikleri bırakmış olayım.
 
 ## İstatistikler
 
@@ -26,16 +44,30 @@ Yakında tamamen okunabilir bir şekilde burada var olacak... c:
 ### En Kalantorlar
 | Kullanıcı | Galleon |
 |---|---|
-| Alpharian/Omegan Av Thrawsunblat | 21496 |
-| Seth Carter | 13121 |
-| Erika Elsbeth Rothmann | 6877 |
-| Mirabella Yamashita | 6626 |
-| Eadwig Alger Boleyn | 4439 |
+| Alpharian/Omegan Av Thrawsunblat | 21954 |
+| Seth Carter | 13126 |
+| Mirabella Yamashita | 7606 |
+| Erika Elsbeth Rothmann | 6930 |
+| Eadwig Alger Boleyn | 4765 |
+| Aldrik Solaris | 4370 |
 | Victoria Sanchez | 4066 |
 | Cornelia Barthélemy | 3782 |
-| Aldrik Solaris | 3655 |
-| Victorine Odette Boleyn | 2785 |
+| Victorine Odette Boleyn | 3226 |
+| Blaze | 2445 |
 | Nicholas Ezra Urswick | 2280 |
+| Balian d'Ibelin | 2150 |
+
+### En Varlıklılar
+| Kullanıcı | Envanter Değeri |
+|---|---|
+| Isolde Aideen O'Malley | 5575 |
+| Alpharian/Omegan Av Thrawsunblat | 3357 |
+| Carolina Roslin O Dubhghaill | 1973 |
+| André Harris | 1897 |
+| Franziska Strömm | 1712 |
+| Seth Carter | 1509 |
+| Luna White | 1243 |
+| Victoria Sanchez | 1000 |
 
 ### En Çok RP Başlatanlar
 | Kullanıcı | Konu Sayısı |
@@ -47,6 +79,37 @@ Yakında tamamen okunabilir bir şekilde burada var olacak... c:
 | Luna White | 16 |
 | André Harris | 16 |
 | Alpharian/Omegan Av Thrawsunblat | 16 |
+
+### En Çok RP Yazanlar
+| Kullanıcı | Anonim Olmayan RP |
+|---|---|
+| Seth Carter | 100 |
+| Cwénhild Muirghéal | 99 |
+| Eadwig Alger Boleyn | 93 |
+| Mirabelle Starlight | 87 |
+| Samuel Raymond Boleyn | 77 |
+| Balian d'Ibelin | 67 |
+| Victorine Odette Boleyn | 58 |
+| Das | 51 |
+| André Harris | 49 |
+| Aethelwulf Ares Caldecott | 47 |
+| Alpharian/Omegan Av Thrawsunblat | 45 |
+| Franziska Strömm | 42 |
+| Nora Gray | 42 |
+| Cornelia Barthélemy | 40 |
+| Charlotte Vera Rillian | 39 |
+
+### En Çok Anonim RP Yazanlar
+| Kullanıcı | Anonim RP |
+|---|---|
+| Balian d'Ibelin | 12 |
+| Darren Shan | 8 |
+| Cornelia Barthélemy | 4 |
+| Victorine Odette Boleyn | 4 |
+| Das | 3 |
+| Lucien Vanidestine | 3 |
+| André Harris | 3 |
+| Eadwig Alger Boleyn | 3 |
 
 ### En Çok Çevrimiçi Olanlar
 | Kullanıcı | Süre |
