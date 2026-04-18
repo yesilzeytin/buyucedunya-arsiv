@@ -1,7 +1,7 @@
 # buyucedunya-arsiv
 Büyücedünya RPG. Ama duman altı.
 
-Birkaç yıl gecikmiş olsa da malum yapay zeka devri, "ya acaba bu siteyi internette kalıcı olarak yaşatmanın bir yolu var mıdır?" sorusunu sormak yeni aklıma geldi ve bir günde iş çözüldü. Devir güzel devir. Buyurun efenim', karşınızda tamamen okunabilir şekilde Büyücedünya RPG!
+Birkaç yıl gecikmiş olsa da malum yapay zeka devri, "ya acaba bu siteyi internette kalıcı olarak yaşatmanın bir yolu var mıdır?" sorusunu sormak yeni aklıma geldi ve iki günde iş çözüldü. Devir güzel devir. Buyurun efenim', karşınızda tamamen okunabilir şekilde Büyücedünya RPG!
 
 Sitede peki neler var?
 - Neredeyse tüm yazılmış RP'ler,
@@ -14,7 +14,8 @@ Sitenin orijinalinin geri kaldırılması aşamasında yaşanan birkaç aksilik 
 - Diagon Yolu,
 - Sitenin kapanış duyurusundan sonra yazılmış RP'ler,
 - RP içlerinde doğrudan "buyucedunya-rpg.com" adresine verilen RP linkleri,
-- Arama fonksiyonalitesi
+- Arama fonksiyonalitesi,
+- Görsel geliştirmelerin bazıları (üye grubu renkleri vb.)
 kaybedilmiş oldu.
 
 Ancak herkes karakter profilleri veyahut mekan forumları üzerinden rahatlıkla eski RP'lerine ulaşabilir.
