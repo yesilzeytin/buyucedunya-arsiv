@@ -1,6 +1,8 @@
 # buyucedunya-arsiv
 Büyücedünya RPG. Ama duman altı.
 
+Lafa girmeden evvel: Kasım 2026 açılışlı veliahtı: https://rpghogwarts.com/index.php
+
 Birkaç yıl gecikmiş olsa da malum yapay zeka devri, "ya acaba bu siteyi internette kalıcı olarak yaşatmanın bir yolu var mıdır?" sorusunu sormak yeni aklıma geldi ve iki günde iş çözüldü. Devir güzel devir. Buyurun efenim', karşınızda tamamen okunabilir şekilde Büyücedünya RPG!
 
 Sitede peki neler var?
