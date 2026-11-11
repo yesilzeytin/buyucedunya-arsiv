@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Redirecting to Archive...</title>
+    <title>BüyüceDünya Archive</title>
     <style>
         body {
             background-color: #000;
@@ -51,12 +51,20 @@
         .announcement-close:focus {
             color: #fff;
         }
+        .archive-link {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 10px 16px;
+            border-radius: 5px;
+            background: #4caf50;
+            color: #fff;
+            text-decoration: none;
+        }
+        .archive-link:hover,
+        .archive-link:focus {
+            background: #3d9141;
+        }
     </style>
-    <script>
-        window.setTimeout(function () {
-            window.location.href = "localhost/buyucedunya2022/index.html";
-        }, 8000);
-    </script>
 </head>
 <body>
     <div class="announcement" id="announcement">
@@ -65,7 +73,7 @@
         </a>
         <button class="announcement-close" type="button" aria-label="Duyuruyu kapat" onclick="event.stopPropagation(); document.getElementById('announcement').hidden = true;">&times;</button>
     </div>
-    <p>Proceeding to the BüyüceDünya Archive...</p>
-    <p>If you are not redirected automatically, <a href="localhost/buyucedunya2022/index.html" style="color: #4CAF50;">click here</a>.</p>
+    <p>BüyüceDünya Arşivi</p>
+    <a class="archive-link" href="localhost/buyucedunya2022/index.html">Arşive geç</a>
 </body>
 </html>
