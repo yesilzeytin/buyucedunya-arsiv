@@ -2,13 +2,69 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=localhost/buyucedunya2022/index.html">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Redirecting to Archive...</title>
-    <script type="text/javascript">
-        window.location.href = "localhost/buyucedunya2022/index.html";
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: sans-serif;
+            text-align: center;
+            padding: 24px;
+        }
+        .announcement {
+            position: relative;
+            box-sizing: border-box;
+            max-width: 900px;
+            margin: 0 auto 32px;
+            padding: 18px 56px 18px 20px;
+            border: 2px solid #f5c542;
+            border-radius: 8px;
+            background: linear-gradient(110deg, #f5c542, #75c94a);
+            color: #17130a;
+            font-size: 1.1rem;
+            font-weight: bold;
+            line-height: 1.5;
+            box-shadow: 0 4px 18px rgba(245, 197, 66, 0.3);
+        }
+        .announcement a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .announcement a:hover,
+        .announcement a:focus {
+            text-decoration: underline;
+        }
+        .announcement-close {
+            position: absolute;
+            top: 8px;
+            right: 10px;
+            border: 0;
+            background: transparent;
+            color: #17130a;
+            cursor: pointer;
+            font-size: 1.6rem;
+            line-height: 1;
+            padding: 4px 8px;
+        }
+        .announcement-close:hover,
+        .announcement-close:focus {
+            color: #fff;
+        }
+    </style>
+    <script>
+        window.setTimeout(function () {
+            window.location.href = "localhost/buyucedunya2022/index.html";
+        }, 8000);
     </script>
 </head>
-<body style="background-color: #000; color: #fff; font-family: sans-serif; text-align: center; padding-top: 50px;">
+<body>
+    <div class="announcement" id="announcement">
+        <a href="https://rpghogwarts.com/index.php">
+            Eğer forum RP özlemindeysen Kasım 2026 açılışlı Büyücedünya RPG veliahtı: https://rpghogwarts.com/index.php
+        </a>
+        <button class="announcement-close" type="button" aria-label="Duyuruyu kapat" onclick="event.stopPropagation(); document.getElementById('announcement').hidden = true;">&times;</button>
+    </div>
     <p>Proceeding to the BüyüceDünya Archive...</p>
     <p>If you are not redirected automatically, <a href="localhost/buyucedunya2022/index.html" style="color: #4CAF50;">click here</a>.</p>
 </body>
